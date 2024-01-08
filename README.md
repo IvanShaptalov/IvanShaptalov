@@ -47,7 +47,7 @@ creating APIs in Python using Flask and Swagger .   </p>
 
 ## Apps
 
- <a href="#">
+ <a href="https://apps.apple.com/us/developer/ivan-shaptalov/id1724017478">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" />
   </a>
 
