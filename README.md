@@ -13,6 +13,8 @@ creating APIs in Python using Flask and Swagger .   </p>
 <p>I am confident I can quickly learn new tools and languages to achieve amazing results in a short period of time. </p>
 <p>Knowledge of English language to freely read/write technical documentation;</p>
 
+IMPORTANT! : CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open link in new page, html blank not work in github
+
 ## IOS 
 <div>
   <a href="https://github.com/IvanShaptalov?tab=repositories&q=&type=public&language=swift" target="_blank">
