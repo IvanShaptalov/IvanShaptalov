@@ -1,5 +1,5 @@
 <a name="readme-top"></a> 
-# Problem Solver 👨‍💻🔨 
+# 👨‍💻🔨 
 
 <p>IOS App development on Swift, targeting to publishing on App Store.</p>
 
