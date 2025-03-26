@@ -3,15 +3,9 @@
 
 <p>IOS App development on Swift, targeting to publishing on App Store.</p>
 
-<p>Android app development using Flutter with BLOC pattern and managing 
-databases with Hive and Shared Preferences, as well as using GitHub
-for app development then publishing and grow it on Google Play.</p>
-
-<p>I am also experienced in writing APIs, integrating Payment Systems in it and creating telegram and viber Chat-bots in Python .</p>
-<p>I am highly proficient in using the following tools/languages: Firebase, Google API, Adsense, 
-creating APIs in Python using Flask and Swagger .   </p>
+<p>I am highly proficient in using the following tools/languages: Firebase, Adsense  </p>
 <p>I am confident I can quickly learn new tools and languages to achieve amazing results in a short period of time. </p>
-<p>Knowledge of English language to freely read/write technical documentation;</p>
+<p>English B1</p>
 
 IMPORTANT! : CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open link in new page, html blank not work in github
 
