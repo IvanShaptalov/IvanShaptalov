@@ -24,22 +24,6 @@ IMPORTANT! : CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open l
   <br />
  
 </div>
-<div>
-  <h3>Android</h3>
-  <a href="https://github.com/IvanShaptalov?tab=repositories&q=&type=public&language=dart" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode" />
-    <p>projects</p>
-  </a>
-  <br />
-  
-</div>
-<div>
-  <h3>Back-end</h3>
-  <a href="https://github.com/IvanShaptalov?tab=repositories&q=&type=public&language=python" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,docker,postgres,bots,heroku,postman">
-    <p>projects</p>
-  </a>
-</div> 
 
 ## Projects in Upwork 
 
