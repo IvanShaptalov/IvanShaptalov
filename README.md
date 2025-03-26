@@ -1,7 +1,7 @@
 <a name="readme-top"></a> 
 # 👨‍💻🔨 
 
-<p>IOS App development on Swift, targeting to publishing on App Store.</p>
+<p>IOS App development on Swift.</p>
 
 <p>I am highly proficient in using the following tools/languages: Firebase, Adsense  </p>
 <p>I am confident I can quickly learn new tools and languages to achieve amazing results in a short period of time. </p>
