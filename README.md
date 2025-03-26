@@ -36,10 +36,6 @@ IMPORTANT! : CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open l
  <a href="https://apps.apple.com/us/developer/ivan-shaptalov/id1724017478" target="_blank">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" />
   </a>
-
-<a href="https://play.google.com/store/apps/dev?id=8126792309483961458" target="_blank">
-    <img src="https://lh3.googleusercontent.com/q1k2l5CwMV31JdDXcpN4Ey7O43PxnjAuZBTmcHEwQxVuv_2wCE2gAAQMWxwNUC2FYEOnYgFPOpw6kmHJWuEGeIBLTj9CuxcOEeU8UXyzWJq4NJM3lg=s0" />
-  </a>
   
 <!-- CONTACT --> 
 
